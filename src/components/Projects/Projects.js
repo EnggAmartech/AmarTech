@@ -11,8 +11,7 @@ import abc5 from "../../Assets/Projects/aircooled.jpeg";
 
 import abc6 from "../../Assets/Projects/abc6.jpg";
 import abc7 from "../../Assets/Projects/cooling_tower.jpg";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+
 import './project.css';
 function Projects() {
   return (
