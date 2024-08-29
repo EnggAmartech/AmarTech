@@ -7,7 +7,7 @@ import abc1 from "../../Assets/Projects/abc1.jpg";
 import abc2 from "../../Assets/Projects/abc2.jpg";
 import abc3 from "../../Assets/Projects/abc3.jpg";
 import abc4 from "../../Assets/Projects/air_washer.jpg";
-// import abc5 from "../../Assets/Projects/aircooled.jpeg";
+import abc5 from "../../Assets/Projects/aircooled.jpeg";
 
 import abc6 from "../../Assets/Projects/abc6.jpg";
 import abc7 from "../../Assets/Projects/cooling_tower.jpg";
@@ -148,13 +148,7 @@ function Projects() {
         {/* <a href="#" class="btn">read more</a> */}
     </div>
 
-    // <div class="box">
-    // <img className="size" src={abc5} alt="brand" style={{ height: '200px' }} />
-    //     <h3>air cooled</h3>
-        {/* <p>"A Shell and Tube type chiller is a type of refrigeration system that uses a shell and tube heat exchanger to transfer heat from a fluid to a refrigerant, 
-            cooling the fluid through a circulation of chilled water or other mediums.</p> */}
-        {/* <a href="#" class="btn">read more</a> */}
-    // </div>
+   
     <div class="box">
     <img className="size" src={abc6} alt="brand" style={{ height: '200px' }} />
         <h3>Skid mounted water cooled chiller</h3>
