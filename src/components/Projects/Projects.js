@@ -8,7 +8,7 @@ import abc2 from "../../Assets/Projects/abc2.jpg";
 import abc3 from "../../Assets/Projects/abc3.jpg";
 import abc4 from "../../Assets/Projects/air_washer.jpg";
 import abc5 from "../../Assets/Projects/aircooled.jpeg";
-import abc6 from "../../Assets/Projects/co2.jpg";
+import co2 from "../../Assets/Projects/co2.jpg";
 import abc6 from "../../Assets/Projects/abc6.jpg";
 import abc7 from "../../Assets/Projects/cooling_tower.jpg";
 
