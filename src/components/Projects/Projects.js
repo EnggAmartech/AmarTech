@@ -8,7 +8,7 @@ import abc2 from "../../Assets/Projects/abc2.jpg";
 import abc3 from "../../Assets/Projects/abc3.jpg";
 import abc4 from "../../Assets/Projects/air_washer.jpg";
 import abc5 from "../../Assets/Projects/aircooled.jpeg";
-
+import abc6 from "../../Assets/Projects/co2.jpg";
 import abc6 from "../../Assets/Projects/abc6.jpg";
 import abc7 from "../../Assets/Projects/cooling_tower.jpg";
 
@@ -159,6 +159,13 @@ function Projects() {
     <div class="box">
     <img className="size" src={abc7} alt="brand" style={{ height: '200px' }} />
         <h3>cooling tower</h3>
+        {/* <p>"A Shell and Tube type chiller is a type of refrigeration system that uses a shell and tube heat exchanger to transfer heat from a fluid to a refrigerant, 
+            cooling the fluid through a circulation of chilled water or other mediums.</p> */}
+        {/* <a href="#" class="btn">read more</a> */}
+    </div>
+        <div class="box">
+    <img className="size" src={co2} alt="brand" style={{ height: '200px' }} />
+        <h3>CO2 condensing unit</h3>
         {/* <p>"A Shell and Tube type chiller is a type of refrigeration system that uses a shell and tube heat exchanger to transfer heat from a fluid to a refrigerant, 
             cooling the fluid through a circulation of chilled water or other mediums.</p> */}
         {/* <a href="#" class="btn">read more</a> */}
