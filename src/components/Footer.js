@@ -21,7 +21,7 @@ function Footer() {
         </Col>
     <Col md="4" className="footer-contact">
       <h3>Contact Us</h3>  <ul>
-        <li><a href="#">Phone: +919415859064 ,9335254443</a></li> 
+        <li><a href="#">Phone: +919415859064</a></li> 
          <li><a href="info@amartechengineers.com">Email: info@amartechengineers.com</a></li>  
          <li><a href="#">Address: E-20 Ispat Nagar Vyapar Nagar Panki <br></br>Kanpur Nagar-208020</a></li>  </ul>
     </Col>
